@@ -27,7 +27,7 @@ The goal of this project was to practice modern web development fundamentals inc
 
 🔗 **Website**
 
-
+https://harshukamble2607-commits.github.io/netflix-clone/
 
 Example:
 
